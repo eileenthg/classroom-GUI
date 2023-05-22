@@ -4,6 +4,6 @@ A Java project to create a GUI for classroom management. Made in 2 days for a un
 Requires java.
 
 # How to run
-- Install zip folder from [release]()
+- Install zip folder from [release](https://github.com/eileenthg/classroom-GUI/releases)
 - Install Java from [here](https://www.java.com/download/ie_manual.jsp) 
 - Run classroom.jar
