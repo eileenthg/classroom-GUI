@@ -1,0 +1,4 @@
+1 Kosong
+Not exist
+0
+None, None, None

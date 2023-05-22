@@ -1,0 +1,22 @@
+3
+1 Adil
+Block A, Ground Floor
+20
+3
+Imran Hakimi, A0001
+Kathryne Wong, A0002
+Daniel, A003
+2
+Pn Masyura, K001, English
+Pn Aidawati, K002, Geografi
+1 Bestari
+Block B, Ground Floor
+10
+0
+1
+Cik Nik Ina, K003, Sains
+1 Kosong
+Not exist
+0
+0
+0
