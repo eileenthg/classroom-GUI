@@ -6,4 +6,4 @@ Requires java.
 # How to run
 - Install zip folder from [release](https://github.com/eileenthg/classroom-GUI/releases)
 - Install Java from [here](https://www.java.com/download/ie_manual.jsp) 
-- Run classroom.jar
+- Extract the zipped folder. Run classroom.jar
